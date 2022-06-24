@@ -1,5 +1,6 @@
 ### Hi there 👋
 Under Development!
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhambuj)](https://git.io/streak-stats)
 
 <!--
 **singhambuj/singhambuj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
