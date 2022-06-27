@@ -3,6 +3,7 @@
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
 <img src="https://activity-graph.herokuapp.com/graph?username=singhambuj&theme=github" alt="GitHub Activity Graph" width="100%" />
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=singhambuj)](https://git.io/streak-stats)
 
 <!--
