@@ -1,9 +1,2 @@
-<H1>Welcome to My GitHub Profile </H1>
-
-
-## Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-   
-</p>
+##Welcome to my GitHub profile!
+#I'm a developer with expertise in DSA, C++, JavaScript, Node.js, and Express.I have experience with other technologies like Java, Spring Boot, and Python. I'm passionate about using technology to solve problems and make a positive impact on people's lives.
